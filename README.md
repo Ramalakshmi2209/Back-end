@@ -1,6 +1,7 @@
 TwitVille - The Social Media Platform
 Welcome to TwitVille, a dynamic web application where users can connect with others, share thoughts, and engage with messages known as “tweets”. TwitVille serves as a knowledge exchange platform where users can stay updated on current world events, share news, and interact with a vibrant community.
 There are 8 Tables:
+
 1.users:user_id(PRIMARY KEY),username,email,password,screenName,profileImage,profileCover,following,followers,bio,country,website
 
 2.Tweets:tweetid(PRIMARY KEY),status,tweetby,retweedid(FORIEGN KEY),retweetby,tweetImage,likesCount,retweetCount,postedon,retweetmsg
