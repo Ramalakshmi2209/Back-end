@@ -16,3 +16,9 @@ There are 8 Tables:
 7.follow:followid,sender,reciever(both are Foreign key),followOn
 
 8.Comment:commentid,comment,commenton(foreign key),commentby
+
+
+![Screenshot 2024-02-25 161318](https://github.com/Ramalakshmi2209/Back-end/assets/118355051/182df53e-2122-4776-a9cd-c50011d8e285)
+![Screenshot 2024-02-25 161330](https://github.com/Ramalakshmi2209/Back-end/assets/118355051/fc328153-2c86-47b8-a2fc-a044328a8426)
+![Screenshot 2024-02-25 161346](https://github.com/Ramalakshmi2209/Back-end/assets/118355051/60b4ca2c-2f23-469f-bcb6-0a16f7ed38a7)
+![Screenshot 2024-02-25 161408](https://github.com/Ramalakshmi2209/Back-end/assets/118355051/72fa571e-4561-4dc3-8b39-ec967c28356d)
